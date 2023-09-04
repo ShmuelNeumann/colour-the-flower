@@ -1,8 +1,11 @@
 # Colour the Flower GAN model
 ## Overview
 **Starting Date:** 21th September, 2022
+
 **Project Completion:** 14th October, 2022
+
 **Motivation:** Completed as part of MDN training
+
 **Status:** Complete
 
 This is a GAN machine learning model that attempts to colour greyscale images of flowers, developed over three weeks as part of the MDN training program.
